@@ -1,5 +1,7 @@
 # SHA-256 Hash Calculator
 
+Simply Java version of https://github.com/B-Con/crypto-algorithms
+
 A simple Java implementation of the SHA-256 cryptographic hash function.
 
 ## Features
